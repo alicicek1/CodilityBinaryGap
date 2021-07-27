@@ -1,0 +1,15 @@
+/Users/alicicek/vscode/test/bin/Debug/net5.0/test.deps.json
+/Users/alicicek/vscode/test/bin/Debug/net5.0/test.runtimeconfig.json
+/Users/alicicek/vscode/test/bin/Debug/net5.0/test.runtimeconfig.dev.json
+/Users/alicicek/vscode/test/bin/Debug/net5.0/test.dll
+/Users/alicicek/vscode/test/bin/Debug/net5.0/ref/test.dll
+/Users/alicicek/vscode/test/bin/Debug/net5.0/test.pdb
+/Users/alicicek/vscode/test/obj/Debug/net5.0/test.csproj.AssemblyReference.cache
+/Users/alicicek/vscode/test/obj/Debug/net5.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alicicek/vscode/test/obj/Debug/net5.0/test.AssemblyInfoInputs.cache
+/Users/alicicek/vscode/test/obj/Debug/net5.0/test.AssemblyInfo.cs
+/Users/alicicek/vscode/test/obj/Debug/net5.0/test.csproj.CoreCompileInputs.cache
+/Users/alicicek/vscode/test/obj/Debug/net5.0/test.dll
+/Users/alicicek/vscode/test/obj/Debug/net5.0/ref/test.dll
+/Users/alicicek/vscode/test/obj/Debug/net5.0/test.pdb
+/Users/alicicek/vscode/test/obj/Debug/net5.0/test.genruntimeconfig.cache
